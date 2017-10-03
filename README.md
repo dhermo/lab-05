@@ -11,7 +11,7 @@ Diego Hermosilla Alfaro
   - Todas las secuencias analizadas pasaron el control de calidad, es decir fueron correctamente secuenciadas. Esto se refiere a que ninguno de los nucleotidios presentes en la secuencia fue colocado en esta de manera erronea.
   
 ¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”?
-  - 
+  - Existen 87 metagenomas del bioma marine habitat.
   
 ¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?
   - 20,128 reads corresponden a organismos eucariontes.
@@ -24,5 +24,10 @@ Diego Hermosilla Alfaro
   
 ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?
   - Porque SwissProt es una base de datos más pequeña, ya que sus datos estan curados, y por ende hay una menor cantidad de informacióncon la que comparar.
-
+  
+¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw)) 
+  - Se mapearon 26,387 proteobacterias.
+  
+¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?  
+  - Se encontraron 77 secuencias de Salmonella.
 
